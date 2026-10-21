@@ -28,7 +28,7 @@ config.window_padding = {
 
 config.scrollback_lines = 10000
 
-config.window_background_opacity = 1.0
+config.window_background_opacity = 0.6
 config.win32_system_backdrop = "Acrylic"
 
 config.enable_scroll_bar = false
